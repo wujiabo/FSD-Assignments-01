@@ -14,5 +14,5 @@
 10. playback rate 1
 11. playback rate 1.5
 
-# Getting started
+### Getting started
 video.html
